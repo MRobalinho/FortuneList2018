@@ -1,4 +1,4 @@
-# Fortune List 2018
+# Fortune List 2018 - Big Companies
 ## List Big Companies 2018
 
 Fortune 1000 list for 2018 with the basic info they listed plus locations of the companies' HQ cities & coordinates.
